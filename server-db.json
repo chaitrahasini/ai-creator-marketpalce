@@ -1,0 +1,57 @@
+{
+  "briefs": [
+    {
+      "id": "brief-1",
+      "brandName": "Aura Tech Brand Studios",
+      "brandUsername": "@auratech_brand",
+      "brandLogo": "⚡",
+      "brandIndustry": "AI Consumer Hardware",
+      "title": "Generative Commercial Spot for Sora Hypercar",
+      "contentType": "30-second AI Video Commercial",
+      "aspectRatio": "16:9 4K",
+      "style": "Cyberpunk Hyper-Photorealistic",
+      "budget": "$8,500",
+      "deadline": "7 Days",
+      "toolsRequired": [
+        "Runway Gen-3",
+        "OpenAI Sora",
+        "ElevenLabs"
+      ],
+      "commercialUse": "Full Worldwide Rights",
+      "description": "Need a 30s high-octane commercial spot for our autonomous hypercar concept using Sora & Gen-3.",
+      "applicantsCount": 14,
+      "status": "Open for Bids",
+      "createdAt": "2 hours ago"
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg-demo-1",
+      "sender": "aura tech",
+      "username": "@aura_tech",
+      "time": "Just now",
+      "text": "CONGRATULATIONS Elena Rostova! You have been selected by aura tech (@aura_tech) for our new Generative Commercial Brief! Please review campaign details in your Creator Messages.",
+      "isSelectionNotice": true
+    }
+  ],
+  "users": [
+    {
+      "name": "Elena Rostova",
+      "username": "@elena_ai",
+      "email": "elena@gmail.com",
+      "role": "creator"
+    },
+    {
+      "name": "Aura Tech Brand",
+      "username": "@auratech_brand",
+      "email": "auratech@gmail.com",
+      "role": "brand"
+    },
+    {
+      "name": "sofia_genai",
+      "username": "@sofia_genai",
+      "email": "chaitrahasinisodisetty@gmail.com",
+      "role": "creator"
+    }
+  ]
+}
